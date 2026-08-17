@@ -7,4 +7,4 @@ const kBorder = Color(0x14FFFFFF);
 const kText = Color(0xFFF0F0F8);
 const kMuted = Color(0xFF8888A8);
 const kAccent = Color(0xFF6C63FF);
-const kAccent2 = Color(0xFFFF6584);
+const kAccent2 = Color(0xFFF6584);
